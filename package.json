@@ -2,7 +2,7 @@
     "name": "todone",
     "displayName": "todone",
     "description": "Simple, hierarchical, prioritized to do lists in plain text",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "publisher": "tiffon",
     "engines": {
         "vscode": "^1.16.0"
@@ -34,6 +34,12 @@
         ],
         "configurationDefaults": {
             "[todone]": {
+                "editor.quickSuggestions": {
+                    "other": false,
+                    "comments": false,
+                    "strings": false
+                },
+                "editor.wordBasedSuggestions": false,
                 "editor.tabSize": 5,
                 "editor.insertSpaces": false,
                 "editor.tokenColorCustomizations": {
