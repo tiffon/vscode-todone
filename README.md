@@ -260,8 +260,6 @@ This package is a simple tool for creating to do lists with the following featur
 * Set a task to either _completed_ or _cancelled_
 * Set a task to an _emergency state_
 
-![](https://raw.github.com/tiffon/sublime-to-done/master/img/example.png)
-
 To do lists are just plain text files with syntax highlighting applied. The intent is for this to make them easy to manage.
 
 The language syntax is **ToDone**, and files with the extension `todo` are automatically set to the this language syntax.
