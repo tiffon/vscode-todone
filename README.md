@@ -39,7 +39,7 @@ The good news is: That works. But, it's not exactly a smooth installation proces
                 "settings": {
                     "foreground": "#ff8800"
                 }
-            }
+            },
             {
                 "scope": [
                     "text.todone"
@@ -241,7 +241,7 @@ The good news is: That works. But, it's not exactly a smooth installation proces
                 "settings": {
                     "foreground": "#fff"
                 }
-            },
+            }
         ]
     }
 ```
